@@ -1,5 +1,5 @@
 - 🐁 Hello! I’m Jackie
-- 🦕 I like doing art and writing, as well as learning music 
+- 🦕 I like doing art and writing
 - 🌱 I’m currently learning mostly front-end languages ^_^
 
 <!---
