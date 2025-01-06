@@ -1,6 +1,6 @@
-- 🐁 Hello! I’m Jackie
-- 🦕 I like making art and writing
-- 🌱 I’m currently learning mostly front-end languages ^_^
+- Hello! I’m Jack (๑´⌔`๑)
+- I enjoy doing digital art and writing 
+- I’m currently learning mostly front-end ^_^
 
 <!---
 cyphyne/cyphyne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
