@@ -18,7 +18,7 @@
 <br>
 <br>
 
-## <h2 align="center"> <img src="./assets/nagano-tech.png" width="25"/> Technologies </h2>
+## <h2 align="center"> <img src="./assets/nagano-tech.png" width="30"/> Technologies </h2>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white" />
