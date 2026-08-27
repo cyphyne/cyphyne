@@ -1,4 +1,4 @@
-<img src = ".assets/banner.png"/>
+<img src = "./assets/banner.png"/>
 
 ## <h2 align="center"> <img src="./assets/nagano-peace.png" width="25"/> About  me </h2>
 
@@ -29,4 +29,4 @@
 </p>
 
 ##
-<img src = ".assets/nagano-bottom.png"/>
+<img src = "./assets/nagano-bottom.png"/>
