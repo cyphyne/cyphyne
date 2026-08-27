@@ -1,6 +1,8 @@
 <img src = "./assets/banner.png"/>
 
-## <h2 align="center"> <img src="./assets/nagano-peace.png" width="25"/> About  me </h2>
+## <h2 align="center"> <img src="./assets/nagano-peace.png" width="25" style="vertical-align: bottom;" /> About  me </h2>
+
+<img src="./assets/animate.gif" width="250" align="right" style="margin-left: 20px;" />
 
 <p>
   Digital artist focused on frontend web development and ux/ui. 
@@ -12,7 +14,7 @@
   Currently learning **React.js, Express.js, PostgreSQL, and Figma** to improve my frontend tech stack.
 </p>
 
-## <h2 align="center"> <img src="./assets/nagano-tech.png" width="25"/> Technologies </h2>
+## <h2 align="center"> <img src="./assets/nagano-tech.png" width="25" style="vertical-align: bottom;" /> Technologies </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white" />
