@@ -1,16 +1,32 @@
-## Hi there 👋
+<img src = ".assets/banner.png"/>
 
-<!--
-**cyphyne/cyphyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <h2 align="center"> <img src="./assets/nagano-peace.png" width="25"/> About  me </h2>
 
-Here are some ideas to get you started:
+<p>
+  Digital artist focused on frontend web development and ux/ui. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  While I thrive on the frontend, I have experience building complete full-stack applications.
+  My background as a digital artist gives me a distinct advantage in **visual hierarchy and asset creation**. 
+  I enjoy mapping out user journeys through wireframes, creating high-fidelity mockups, crafting custom icons, and writing clean code.
+
+  Currently learning **React.js, Express.js, PostgreSQL, and Figma** to improve my frontend tech stack.
+</p>
+
+## <h2 align="center"> <img src="./assets/nagano-tech.png" width="25"/> Technologies </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+##
+<img src = ".assets/nagano-bottom.png"/>
