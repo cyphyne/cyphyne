@@ -2,7 +2,7 @@
 
 ## <h2 align="center"> <img src="./assets/nagano-peace.png" width="25" style="vertical-align: bottom;" /> About  me </h2>
 
-<img src="./assets/animate.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="./assets/animated.gif" width="250" align="right" style="margin-left: 20px;" />
 
 <p>
   Digital artist focused on frontend web development and ux/ui. 
